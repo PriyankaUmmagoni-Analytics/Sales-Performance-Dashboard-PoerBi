@@ -27,12 +27,12 @@ This Power BI dashboard analyzes sales performance for 2023, focusing on revenue
 ## 📂 Files Included
 - `Sales_Performance_Dashboard_2023.pbix`
 - `Sales_Data_2023.xlsx`
-- `Dashboard_Preview.png`
+- `dashboard_preview.png.png`
 
 
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](Dashboard_Preview.png)
+![Dashboard Preview](dashboard_preview.png.png)
 
 
 
